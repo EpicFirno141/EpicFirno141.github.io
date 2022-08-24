@@ -1,0 +1,68 @@
+.title {
+  background-color: #00CED1;
+  border-radius: 6px;
+  text-align: center;
+  padding: 2px 0px 2px 0px;
+  margin-bottom: 15px;
+}
+
+body {
+  font-family: Helvetica;
+  background-color: #DCDCDC;
+}
+
+.name {
+  margin-top: 8px;
+}
+
+.address{
+  margin-bottom: 2px;
+}
+
+.phone {
+  margin-top: 3px;
+}
+
+.work {
+  background-color: #90EE90;
+  border-radius: 6px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  padding: 3px 0px 8px 0px;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align:center;
+}
+
+h4 {
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
+h5 {
+  margin-top: -15px;
+  margin-left: 10px;
+}
+
+li {
+  margin-bottom: 5px;
+  margin-left: 5px;
+  line-height: 25px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.education {
+  background-color: #FA8072;
+  border-radius: 6px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  padding: 3px 0px 8px 0px;
+}
+
+.rel {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
